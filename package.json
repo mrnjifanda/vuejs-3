@@ -1,0 +1,22 @@
+{
+  "name": "vuejs-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrnjifanda/vuejs-3.git"
+  },
+  "author": "Mr NJIFANDA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrnjifanda/vuejs-3/issues"
+  },
+  "homepage": "https://github.com/mrnjifanda/vuejs-3#readme",
+  "dependencies": {
+    "vue": "^3.0.11"
+  }
+}
